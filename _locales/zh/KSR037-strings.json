@@ -1,0 +1,20 @@
+{
+	"KSR037|block": "小Q自走車",
+	"KSR037.MotorNum.M1A|block": "右邊",
+	"KSR037.MotorNum.M1B|block": "左邊",
+	"KSR037.LedNum.L_LED|block": "左邊",
+	"KSR037.LedNum.R_LED|block": "右邊",
+	"KSR037.Track.Left|block": "左邊",
+	"KSR037.Track.Right|block": "右邊",
+	"KSR037.RunState.Forward|block": "前進",
+	"KSR037.RunState.Back|block": "後退",
+	"KSR037.RunState.Left|block": "左轉",
+	"KSR037.RunState.Right|block": "右轉",
+	"KSR037.RunState.Stop|block": "停止",
+	"KSR037.Ultrasonic|block": "超音波測距(公分)",
+	"KSR037.RGBLED_R|block": "右全彩燈",
+	"KSR037.RGBLED_L|block": "左全彩燈",
+	"KSR037.Read_Track|block": "循跡感測器 %sensor",
+	"KSR037.Motor|block": "馬達 %channel|速度 %speed",
+	"KSR037.Motor_Car|block": "車子 %index|左邊速度 %lspeed|右邊速度 %rspeed"
+}
